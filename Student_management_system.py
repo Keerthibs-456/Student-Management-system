@@ -1,4 +1,4 @@
-students = []
+students = [] # Student Management System
 
 
 # -------------------------------
